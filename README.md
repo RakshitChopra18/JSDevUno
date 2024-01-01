@@ -1,5 +1,5 @@
 <img align="center" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100%"/>
-<h1 align="center">Hi, I'm Jeevy Seguerra</h1>
+<h1>Hi, I'm Jeevy Seguerra</h1>
 <h3 align="justify">A software and web developer from Philippines. As a software and web developer deeply invested in my growth as a student, I immerse myself in the intricate world of technology, driven by an insatiable curiosity to create innovative and user-centered solutions. Embracing a blend of coding and design, I strive to craft functional and aesthetically pleasing software and websites. I prioritize understanding user experiences, recognizing their pivotal role in the success of any project. My dedication to hands-on experiences, internships, and projects fuels my desire for continuous learning, ensuring I stay at the forefront of the rapidly evolving landscape of software development. My journey is characterized by a relentless pursuit of knowledge and innovation, shaping the path for my success and impact in the dynamic realm of technology.</h3>
 
 <h3 align="left">Socials:</h3>
