@@ -31,9 +31,6 @@
 <h3 align="left">Version Control:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsdevuno&show_icons=true&locale=en" alt="jsdevuno" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsdevuno&" alt="jsdevuno" /></p>
 
 
