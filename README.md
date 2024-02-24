@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsdevuno&" alt="jsdevuno" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSDevUno&layout=compact)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSDevUno&repo=github-readme-stats)](https://github.com/JSDevUno/github-readme-stats)
