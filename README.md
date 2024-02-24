@@ -32,5 +32,5 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsdevuno&" alt="jsdevuno" /></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSDevUno&layout=compact)
 
